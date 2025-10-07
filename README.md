@@ -1,2 +1,2 @@
 # Supplementary-material-for-Distributed-CLD-Framework-for-UC
-supplementary material
+For the manuscript “Yemin Wu, Shuai Lu, Wei Gu, et al., Distributed Closed-Loop Decision Framework for Unit Commitment"
